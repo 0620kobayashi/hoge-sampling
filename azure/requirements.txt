@@ -1,7 +1,7 @@
 azure.cognitiveservices.vision.computervision
-azure.cognitiveservices.vision.computervision.models
-azure.cognitiveservices.vision.computervision.models
-msrest.authentication
+OperationStatusCodes
+VisualFeatureTypes, Details
+msrest.authentication 
 array
 os
 sys
