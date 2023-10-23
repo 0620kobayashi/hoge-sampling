@@ -7,3 +7,4 @@ altair
 streamlit
 gspread_dataframe
 datetime
+gunicorn==19.9.0
