@@ -39,5 +39,3 @@ def get_data_ec():
     df_ec = pd.DataFrame(data_ec)
 
     return df_ec
-
-print(get_data_ec())
